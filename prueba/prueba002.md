@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Ejemplo Completo de Renderizado
@@ -150,26 +149,3 @@ Esto es una línea horizontal.
 ---
 
 ¡Espero que este ejemplo te sea útil para explorar todas las opciones de renderizado en tu sitio de GitHub Pages!
-```
-
----
-
-### **Cómo Funciona Cada Sección**
-1. **Encabezados:** Muestra cómo usar diferentes niveles de títulos.
-2. **Texto Formateado:** Demuestra cómo aplicar negrita, itálica, tachado, etc.
-3. **Listas:** Incluye ejemplos de listas ordenadas y no ordenadas.
-4. **Enlaces e Imágenes:** Muestra cómo insertar enlaces e imágenes.
-5. **Bloques de Código:** Ejemplos de código en línea y bloques de código con resaltado de sintaxis.
-6. **Citas:** Cómo usar bloques de citas.
-7. **Tablas:** Ejemplo de una tabla simple.
-8. **Fórmulas Matemáticas:** Incluye ejemplos de fórmulas en línea y en bloque usando MathJax.
-9. **Líneas Horizontales:** Muestra cómo separar secciones con líneas horizontales.
-
----
-
-### **Resultado Final**
-Guarda este archivo como `ejemplo-completo.md` en tu repositorio (por ejemplo, en la carpeta `prueba/`). Después de subirlo a GitHub y esperar unos minutos, ve a la URL correspondiente en tu sitio de GitHub Pages para ver cómo se renderiza cada elemento.
-
-Por ejemplo:
-```
-https://<tu-usuario>.github.io/apunte-de-estudio/prueba/ejemplo-completo.html
