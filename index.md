@@ -1,18 +1,11 @@
 ---
 layout: default
-title: Caja de Apuntes
+title: Apuntes de Estudio
 ---
 
-# Mis Apuntes de Estudio 📚
+# Bienvenido a Mis Apuntes de Estudio
 
-## Inglés
-- 💬 [Vocabulario](ingles/vocabulario.html)
-- 🕞 [Tiempos Verbales](ingles/tiempos-verbales.html)
+Aquí encontrarás mis apuntes organizados por materias:
 
-## Análisis Matemático
-- [Derivadas](analisis-matematico/derivadas.html)
-- [Integrales](analisis-matematico/integrales.html)
-
-## Programación
-- [Introducción a Python](programacion/python-intro.html)
-- [Estructuras de Datos](programacion/estructuras-de-datos.html)
+- [Pruebame! 😉](prueba/prueba001.html)
+- [Pruebame de nuevo! 😉](prueba/prueba002.html)
