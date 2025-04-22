@@ -1,0 +1,15 @@
+# Ignorar la caché de Jekyll
+/.jekyll-cache/
+
+# Ignorar el directorio _site (output de Jekyll)
+/_site/
+
+# Ignorar archivos de configuración de Ruby
+*.gem
+Gemfile.lock
+
+# Ignorar archivos temporales y de configuración
+*.swp
+*.swo
+*.bak
+*.tmp
