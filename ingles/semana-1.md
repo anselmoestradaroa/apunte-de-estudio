@@ -2,8 +2,10 @@
 layout: default
 title: Inglés
 ---
+# 📅 Week 1. Tuesday, April 1, 2025 (Class 1)
+Solo avisos administrativos y de organización de la materia.
 
-# 📅 Thursday, April 3, 2025
+# 📅 Week 1. Thursday, April 3, 2025 (Class 2)
 
 ---
 
@@ -13,11 +15,11 @@ title: Inglés
 
 ### Warm-Up : Are these people going anything wrong? If so, what?
 
-![image.png](./img/fff2c030-92a0-4975-9167-115e09330672.png)
+![image.png](./img/manspreading.png)
 
 The problem that we see in this pictures is the manspreading because invade the other’s personal space. Sometime this behavior is annoying. Often we see that on a bus, train or subway.
 
-![image.png](./img/image.png)
+![image.png](./img/lipstick.png)
 
 Putting on lipstick on the isn’t that bad. What’s worse is talking loudly or playing music on speaker.
 
