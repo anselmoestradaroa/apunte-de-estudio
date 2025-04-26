@@ -22,9 +22,9 @@ Así que, semanas = **perfect!** 🎯
 - [Semana 3 (15 de abril) 📅](semana-3.md)  Happy Easter 🐇🥚!
   _"Esta semana aprendimos que ‘She must be running some errands’ no significa que tu mamá esté preparando la cena de Pascua a toda velocidad… aunque suene así."_ 🐰🍴😄
 
-<!--  - [Semana 4 (22 y 24 de abril) 📅](semana-4.md)  
-  _"La semana donde arrancamos... y donde aprendí que **'no molestar al prójimo'** no siempre es tan fácil como parece."_ 😅
+ - [Semana 4 (22 y 24 de abril) 📅](semana-4.md)  (En construcción)
 
+<!--
 - [Semana 5 (29 de abril) 📅](semana-5.md)  Happy International Workers' Day 👷‍♂️👷‍♀️💼🛠️
   _"La semana donde arrancamos... y donde aprendí que **'no molestar al prójimo'** no siempre es tan fácil como parece."_ 😅
 
