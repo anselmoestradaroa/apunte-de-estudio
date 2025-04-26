@@ -115,7 +115,7 @@ Finalmente tenemos:
 
 Podríamos definir:
 
-- En $[-1,1]$ usamos $h(x) = |x|$ (positivo y par, check).
+- En $[-1,1]$ usamos $h(x) = \lvert x \rvert$ (positivo y par, check).
 - En $(1,2)$ y $(2,3)$ ponemos rectas que conecten de forma razonable (por ejemplo, una pendiente positiva o negativa).
 - En $x=3$, ajustamos para que $h(3) = -2$ pero no coincida con el límite.
 
