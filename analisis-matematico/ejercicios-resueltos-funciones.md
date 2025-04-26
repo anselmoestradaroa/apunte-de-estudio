@@ -77,3 +77,6 @@ En este punto es importante aprender a reconocer la grafica. Saber como hacerun 
 
 ---
 
+Finalmente acá van algunos ejercicios resueltos por mi
+
+[Ejercicio001](Ejercicio001.html)

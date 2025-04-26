@@ -14,9 +14,9 @@ La idea es compartir conocimiento, ayudar a quien le sirva, y de paso ordenarme 
 
 ## ¿Qué vas a encontrar?
 
-- **Análisis Matemático** 🧠
+- [**Análisis Matemático** 🧠](analisis-matematico/ejercicios-resueltos-funciones.html)
 - **Propagación y Radiación** 📡
-- [**Inglés** 🇬🇧](ingles/english.md)
+- [**Inglés** 🇬🇧](ingles/english.html)
 - **Python** 🐍
 - ¡Y lo que se me vaya ocurriendo en el camino!
 
